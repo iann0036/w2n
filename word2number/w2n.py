@@ -34,7 +34,10 @@ american_number_system = {
     'thousand': 1000,
     'million': 1000000,
     'billion': 1000000000,
-    'point': '.'
+    'point': '.',
+    'couple': 2,
+    'dozen': 12,
+    'an': 1
 }
 
 decimal_words = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine']
